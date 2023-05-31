@@ -83,7 +83,7 @@ export default function index() {
             }}
           >
             <Typography variant="h4">
-              ระบบจัดการรายชื่อและอายุ ของบุลคลทั่วไป
+              ระบบจัดการรายชื่อและอายุ ของบุลคลทั่วไปนะจ๊ะ
             </Typography>
           </Grid>
           <Grid
